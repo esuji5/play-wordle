@@ -1,0 +1,6 @@
+fire
+pandas
+pillow
+playwright
+python-dotenv
+requests
